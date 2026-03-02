@@ -8,7 +8,7 @@
 > ### End of Support Announcement
 > Support for ASP.NET Boilerplate will officially end in **May 2026**. However, we will continue to provide support for [ASP.NET Zero](https://aspnetzero.com/?utm_source=referral&utm_medium=github&utm_campaign=github_zerowebsite_redirection) **customers** using ASP.NET Boilerplate. For those looking for an open-source alternative, we recommend migrating to [ABP Framework](https://abp.io/?utm_source=referral&utm_medium=github&utm_campaign=github_abpwebsite_redirection). For the full story, [read the end of life announcement](https://aspnetboilerplate.com/endofsupport?utm_source=referral&utm_medium=github&utm_campaign=github_zboilerplate_announcement_redirection).
 
-## What is ABP?
+## Wh at is ABP?
 
 [ASP.NET Boilerplate](https://aspnetboilerplate.com) is a general purpose **application framework** specially designed for new modern web applications. It uses already **familiar tools** and implements **best practices** around them to provide you a **SOLID development experience**.
 
